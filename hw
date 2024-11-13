@@ -1,0 +1,115 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.6.8"
+    },
+    "toc": {
+      "base_numbering": 1,
+      "nav_menu": {},
+      "number_sections": false,
+      "sideBar": false,
+      "skip_h1_title": false,
+      "title_cell": "Table of Contents",
+      "title_sidebar": "Contents",
+      "toc_cell": false,
+      "toc_position": {},
+      "toc_section_display": false,
+      "toc_window_display": false
+    },
+    "colab": {
+      "provenance": [],
+      "collapsed_sections": []
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "8HhoaZMxrZXZ"
+      },
+      "source": [
+        "# AI-Generated Essay Answers\n",
+        "\n",
+        "---\n",
+        "\n",
+        "\n",
+        "In this assignment you will consider the design of AI-generated text. Submit your assignment on Gradescope as a single PDF."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "bDkESmwsPU2_"
+      },
+      "source": [
+        "## Part 1: Use AI to cheat on a final exam for this class. (10 pts)\n",
+        "Take a look at a [practice final exam](https://docs.google.com/document/d/1m0e404tndlW1LV84Xx_Hoxi0jtGmktUZgqrSN63Wpss/edit?usp=sharing) similar to 2021's. (There won't be a final this year.) Choose one the questions and use an AI text generation tool to compose an answer. Some tools that you could consider using include:\n",
+        "- [https://claude.ai](https://claude.ai)\n",
+        "- [https://www.meta.ai](https://www.meta.ai)\n",
+        "- [https://deepai.org/](https://deepai.org/)\n",
+        "- [https://transformer.huggingface.co/](https://transformer.huggingface.co/)\n",
+        "- [https://www.sudowrite.com/](https://www.sudowrite.com/)\n",
+        "- [https://chatgpt.com/](https://chatgpt.com/)\n",
+        "\n",
+        "### 1A: Share your generated answer. (2 pts)\n",
+        "## Scenario: AI Decision Making System \n",
+"A bank implements an AI system to detect fraudulent transactions. The system analyzes customer behavior, transaction history, and account activity to predict the likelihood of a transaction being fraudulent. \n",
+"False Positives and False Negatives \n",
+"False Positive: A legitimate transaction is flagged as fraudulent, delaying or blocking the transaction. \n",
+"False Negative: A fraudulent transaction is not detected, allowing the fraud to occur.\n",
+"The system should prioritize avoiding false negatives, as undetected fraud can result in significant financial losses.\n",
+"Explanation for Predictions\n",
+"Yes, systems that make predictions should provide explanations. This ensures transparency, accountability, trust, and improvement. Explainability facilitates auditing, regulatory compliance, and refinement of the system.\n",
+"Fairness of the Health Risk Score System\n",
+"No, similar proportions of Black and White patients receiving each risk score do not guarantee fairness. The company must evaluate disparate impact, data bias, and predictive equity across demographics to ensure fairness.\n"
+"Autonomous Vehicle Setting Expectations\n"
+"An autonomous vehicle's AI system can set expectations through:\n"
+"Visual displays (LED lights or screens)\n"
+"Auditory signals (sounds or voice messages)\n"
+"V2X communication (real-time information exchange)\n"
+"This is crucial for enhancing safety, building trust, and improving traffic flow.\n"
+        "\n",
+        "### 1B: Is this a good answer? Why or why not? (2 pts)\n",
+        "\n",
+        "### 1C: Explain the process you used to generate this answer. (2 pts)\n",
+        "\n",
+        "### 1D: The remaining points will be assigned based on the quality of the answer. (4 pts)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "nviFxr3-rZXj"
+      },
+      "source": [
+        "## Part 2: Help someone else cheat on an exam. (14 pts)\n",
+        "\n",
+        "How would you design an interaction around a text-generation model to help someone cheat on an exam?\n",
+        "\n",
+        "### 2A: Reflecting on your experience in part 1, list at least two user needs that your designs should meet. (2 pts)\n",
+        "\n",
+        "### 2B: Sketch two (distinct) interactions. For each sketch, you should include a brief explanation of how your design addresses the needs you identified in 2A. (6 pts per sketch)"
+      ]
+    }
+  ]
+}
